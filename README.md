@@ -67,3 +67,4 @@ For this workshop you need the following:
 
 Ping
 Pong
+Ping
